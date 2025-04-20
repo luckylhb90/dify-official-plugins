@@ -1,6 +1,6 @@
 identity:
   author: aws
-  name: aws_tools
+  name: aws
   label:
     en_US: AWS Tools
     zh_Hans: 亚马逊云科技工具集
@@ -27,4 +27,4 @@ tools:
   - tools/opensearch_knn_search.yaml
 extra:
   python:
-    source: provider/aws_tools.py
+    source: provider/aws.py
